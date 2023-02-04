@@ -1,0 +1,12 @@
+.footer-flex {
+    display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+.footer-menu{
+     display: flex;
+      align-items: center;
+       justify-content: space-around;
+       margin: 1rem;
+
+}

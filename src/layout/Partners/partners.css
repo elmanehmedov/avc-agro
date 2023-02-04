@@ -1,0 +1,17 @@
+.section-partners {
+    background: #EAEAEA;
+     height: 50vh;
+}
+
+.section--news-header{
+    text-align: center;
+    padding: 3rem;
+    
+}
+.slider-flex {
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-evenly;
+     margin: 2rem;
+
+}
